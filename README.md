@@ -27,6 +27,6 @@ This project was a great way for me to refresh and practice my skills with React
 
 ## Demo
 
-[Click for Demo](react-course-website.vercel.app) or visit react-course-website.vercel.app
+[Click for Demo](https://react-course-website.vercel.app) or visit react-course-website.vercel.app
 
 
